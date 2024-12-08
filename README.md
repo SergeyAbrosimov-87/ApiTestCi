@@ -12,4 +12,5 @@
 1. [x] [Reporting](reporting/)
 1. [ ] [Summary](summary/)
 
+
 [![Build status](https://ci.appveyor.com/api/projects/status/5itm7o31hslgacoy?svg=true)](https://ci.appveyor.com/project/SergeyAbrosimov-87/apitestci)
